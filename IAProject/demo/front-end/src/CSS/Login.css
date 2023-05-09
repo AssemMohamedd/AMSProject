@@ -1,0 +1,23 @@
+
+body {
+  background-color: #B0E0E6;
+}
+.login-container{
+  width: 50%;;
+  margin: 5rem auto;
+}
+.register-container
+{
+width: 50%;;
+margin: 5rem auto;
+}
+.logtitle
+{
+  margin:3rem ;
+  
+}
+.regtitle
+{
+  margin:3rem ;
+  
+}

@@ -1,0 +1,16 @@
+.a-block 
+{
+    height: 60vh;
+    background:  url('C:\Users\User\lastone\lastone\src\images\126-1266695_transparent-crowd-of-people-png-silhouette-transparent-background.png')no-repeat center center/cover; 
+    width: 90%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+
+    
+
+}
+.carousel-caption.caption {
+    bottom: 50%; /* adjust this value to move the captions higher or lower */
+    text-align: left;
+  }
